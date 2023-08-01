@@ -8,6 +8,3 @@
 [submodule "gmodels"]
 	path = gmodels
 	url = https://github.com/cran/gmodels
-[submodule "namespace"]
-	path = namespace
-	url = https://github.com/cran/namespace
