@@ -5,6 +5,3 @@
 [submodule "genetics"]
 	path = genetics
 	url = https://github.com/cran/genetics
-[submodule "gmodels"]
-	path = gmodels
-	url = https://github.com/cran/gmodels
